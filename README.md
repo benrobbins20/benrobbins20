@@ -2,7 +2,7 @@
 - 👀 I’m interested in hacking and engineering 
 - 🌱 I’m currently learning ctf, python, CAD
 - 💞️ I’m looking to collaborate on Embedded software development. CAN tools for automotive communication 
-- 📫 How to reach me Reddit: Benpro4433 ; Discord: Thehitmonkey#5695
+- 📫 How to reach me Reddit: thehitmonkey ; Discord: Thehitmonkey#5695
 
 <!---
 benrobbins20/benrobbins20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
